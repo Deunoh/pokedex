@@ -11,3 +11,7 @@ Petit projet sur un pokédex pour apprendre sur une architecture MVC minimaliste
 ## Détail d'un pokémon
 
 ![detail](docs/pokemon.png)
+
+## Structure de la base de données
+
+![bdd](docs/structure.png)
